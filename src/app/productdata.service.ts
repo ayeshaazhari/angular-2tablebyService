@@ -11,11 +11,9 @@ export class ProductDataService {
     return this.itemName;
   }
 
-
   getItemCatageory(){
     return this.itemCategory;
   }
-
 
   getItemPrice(){
     return this.itemprice;
